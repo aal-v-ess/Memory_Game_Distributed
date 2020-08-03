@@ -1,0 +1,6 @@
+[GameOver] 3659 finished a new game at 31-07-2020 10:58:38 with 4 attempts
+[GameOver] FFFFF finished a new game at 31-07-2020 22:48:41 with 2 attempts
+[GameOver] FFFFF finished a new game at 31-07-2020 22:55:07 with 3 attempts
+[GameOver] 666666 finished a new game at 31-07-2020 22:55:07 with 3 attempts
+[GameOver] 88888888 finished a new game at 31-07-2020 22:55:07 with 5 attempts
+[GameOver] null finished a new game at 02-08-2020 14:02:21 with 5 attempts

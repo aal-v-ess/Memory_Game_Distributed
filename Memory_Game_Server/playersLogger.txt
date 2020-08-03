@@ -1,0 +1,12 @@
+[NewGame] 3659 started a new game at 31-07-2020 10:58:38
+[NewGame] FFFFF started a new game at 31-07-2020 22:48:41
+[NewGame] HHHHH started a new game at 31-07-2020 22:48:41
+[NewGame] FFFF started a new game at 31-07-2020 22:53:20
+[NewGame] 6523 started a new game at 31-07-2020 22:54:36
+[NewGame] FFFFF started a new game at 31-07-2020 22:55:07
+[NewGame] 666666 started a new game at 31-07-2020 22:55:07
+[NewGame] 88888888 started a new game at 31-07-2020 22:55:07
+[NewGame] 123456 started a new game at 31-07-2020 22:55:07
+[NewGame] null started a new game at 02-08-2020 14:02:21
+[NewGame] Nice started a new game at 02-08-2020 14:07:28
+[NewGame] Nice started a new game at 02-08-2020 14:10:21
